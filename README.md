@@ -17,5 +17,7 @@
   * [m - MongoDB Version Manager](https://www.npmjs.com/package/m)
   * [Docker](https://hub.docker.com/_/mongo)
   * [MongoDB Performance Analytics](https://github.com/simagix/keyhole)
+  * [MongoDB JSON Log Analyzer](https://github.com/simagix/hatchet)
+  * [MongoDB Sharded Cluster Analysis Tool](https://github.com/simagix/bond)
 * Workshop
   * [Data modeling](https://github.com/mongodbthailand/thmug-mdb-data-modeling)
