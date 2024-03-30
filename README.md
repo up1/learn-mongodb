@@ -19,5 +19,6 @@
   * [MongoDB Performance Analytics](https://github.com/simagix/keyhole)
   * [MongoDB JSON Log Analyzer](https://github.com/simagix/hatchet)
   * [MongoDB Sharded Cluster Analysis Tool](https://github.com/simagix/bond)
+  * [MongoDB data modeling design patterns](https://www.geopits.com/blog/mongodb-data-modeling-design-patterns.html)
 * Workshop
   * [Data modeling](https://github.com/mongodbthailand/thmug-mdb-data-modeling)
