@@ -22,5 +22,6 @@
   * [MongoDB data modeling design patterns](https://www.geopits.com/blog/mongodb-data-modeling-design-patterns.html)
   * [Data modeling tool](https://hackolade.com/help/Editions.html)
   * [Queryable Encryption](https://www.mongodb.com/docs/manual/core/queryable-encryption/)
+  * [Practical MongoDB Aggregations Book](https://www.practical-mongodb-aggregations.com/)
 * Workshop
   * [Data modeling](https://github.com/mongodbthailand/thmug-mdb-data-modeling)
